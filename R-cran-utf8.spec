@@ -3,7 +3,7 @@
 Summary:	Unicode text processing
 Name:		R-cran-%{modulename}
 Version:	1.2.6
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Applications/Math
 Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
